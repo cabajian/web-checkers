@@ -1,0 +1,4 @@
+1) Open command prompt and go to the root directory.
+2) Execute mvn compile exec:java
+3) Open Google Chrome and one incognito tab and type in http://localhost:4567/
+4) Begin testing the sign in and playing a game features
